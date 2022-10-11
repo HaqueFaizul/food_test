@@ -1,1 +1,1 @@
-web: gunicorn Foodtracker.wsgi.application
+web: gunicorn Foodtracker.wsgi
